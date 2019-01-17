@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Listeners;		
 import org.testng.annotations.Test;		
 
-//@Listeners(com.listeners_demo.ListenerTest.class)
+//@Listeners(com.listeners_demo.ListenerTest.class) -->Now  Run from  ListnerTestNgfile1.xml
 
 public class TestCases {
 	WebDriver driver;	
