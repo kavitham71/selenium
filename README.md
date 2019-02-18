@@ -32,8 +32,8 @@ TEst cases for Selenium JAVA
  - Add Chrome/Firefox driver in Eclipse
  - Add to Script in Eclipse IDE.
    - For Chrome:
- >   System.setProperty(“webdriver.chrome.driver ”, “ location of chrome driver”); 
- >   Webdriver driver = new ChromeDriver();
+ - >   System.setProperty(“webdriver.chrome.driver ”, “ location of chrome driver”); 
+ - >   Webdriver driver = new ChromeDriver();
    - For Firefox:
      System.setProperty(“webdriver.firefox.driver ”, “ location of firefox driver”);
      Webdriver driver = new FirefoxDriver();
