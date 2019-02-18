@@ -21,7 +21,7 @@ TEst cases for Selenium JAVA
    $ javac -version
  - Eclipse
  - Selenium jar files 
-    From http://www.seleniumhq.org/download/  → select JAva download link under Selenium Client & WebDriver language Bindings.
+    From http://www.seleniumhq.org/download/  → select Java download link .
     For selenium jar files . download the following: 
      1) selenium-server-3.9.1.zip
      2) selenium-server-standalone-3.9.1.jar      
