@@ -1,6 +1,7 @@
 TEst cases for Selenium JAVA
 
 **What is Selenium ?** <br/>
+
     Selenium is a free (open source) automated testing suite for web applications.
 
 
@@ -39,6 +40,13 @@ TEst cases for Selenium JAVA
    - For Firefox:
      System.setProperty(“webdriver.firefox.driver ”, “ location of firefox driver”); <br/>
      Webdriver driver = new FirefoxDriver();
+
+**What are WebElements ?** <br/>
+    Web Elements are used to interact with webpages.Web Element is a class . 
+    We can get it from  “org.openqa.selenium.*” Package. <br/>
+    We can Instantiate Web Element Object as Folows:  <br/>
+    WebElement myelement = driver.findElement(By.id(“username”));  <br/>
+    myelement.sendKeys(“Give a Username‘); 
 
 
 
