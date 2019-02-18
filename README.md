@@ -22,9 +22,11 @@ TEst cases for Selenium JAVA
  - Eclipse
  - Selenium jar files 
     From http://www.seleniumhq.org/download/  → select Java download link.
-    For selenium jar files , download the following: 
+    - For selenium jar files , download the following: 
      1) selenium-server-3.9.1.zip
      2) selenium-server-standalone-3.9.1.jar      
  - Browser based drivers
+ 
+ 
 
 
